@@ -1,0 +1,8 @@
+{"level":"error","message":"🔥 WINSTON ERROR TEST","service":"production-api","timestamp":"2026-01-02T11:15:46.453Z"}
+{"level":"info","message":"🔥 WINSTON INFO TEST","service":"production-api","timestamp":"2026-01-02T11:15:46.455Z"}
+{"level":"error","message":"🔥 WINSTON ERROR TEST","service":"production-api","timestamp":"2026-01-02T11:15:50.790Z"}
+{"level":"info","message":"🔥 WINSTON INFO TEST","service":"production-api","timestamp":"2026-01-02T11:15:50.792Z"}
+{"level":"info","message":"Hello from api","service":"production-api","timestamp":"2026-01-02T11:16:02.102Z"}
+{"level":"info","message":"::1 - - [02/Jan/2026:11:16:02 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0\"","service":"production-api","timestamp":"2026-01-02T11:16:02.107Z"}
+{"level":"info","message":"Hello from api","service":"production-api","timestamp":"2026-01-02T11:16:02.383Z"}
+{"level":"info","message":"::1 - - [02/Jan/2026:11:16:02 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0\"","service":"production-api","timestamp":"2026-01-02T11:16:02.386Z"}
